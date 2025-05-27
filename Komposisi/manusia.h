@@ -15,4 +15,4 @@ class manusia {
         cout << nama << " mati\n";
     }
 };
-#endif
+#endif 
